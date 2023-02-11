@@ -1,4 +1,35 @@
 {
-  "users":[],
-  "blogs":[]
+  "users":[
+    {
+      "name": "sammyak",
+      "avatar": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAMAAAD04JH5AAAAMFBMVEXk5ueutLepr7Ln6erg4uPJzc/T1ti7wMO2u77DyMqzuLvq7O3P0tTW2dvc3+DZ3N7ueM45AAAC2UlEQVR4nO2a2ZLjIAxFAYHZvPz/3za2O8v0JCA5kl3dxXly5eXeCAmDZKU6nU6n0+l0Op1O5/cCAErZglofzle3UwxJryTvFnWuB4DJa2P0DWNSnM+zAHnUD/G7Cb/kc/Tz9EJ+t3DKQkB8Lb8xiDsAFSr62jhhB2BTRX51EEUdgK3Lb4kg6qDx/6VjAL6tXxyMUg7A1fLvyYHQngQLTr/szUIGAlJfqBhhxAagIKCvAC+vtUQIBkIAtOE3kNEZsBkQKEVKALQO3AZIKbiGwHIbQG2CTwbYX8w0fa253wgzbQVKEvDqA6kIN5gNIN9DT8y8BiJVXy8XGzATrwFiFa51+McMXL4Elyfh1WVIOw1s8OorS96K/9rL6PLXMfVAorkPJApoBvivqLQ1MBP/oRR9MdsQuBcA4mp+D4DI3WwihEDkdorPAv4j8U67P/ONVJcGvRdYqRZJ9hgHEiV4A9OjkGsRbVTblJu+dKuy4UBcvxRjtVUr3ywup7P38uGUoQHM74Lgzprd5OVFJpgoVv6vLMzu35FNGE+eGq1TqzH6kFIKPg7XDM4y3Mhnz8zK/7XLMLq44cZhmfdfTxDPah5jKKu+ck+B9TlFNynRYKzDSheek+9nIWiT4mBlIlGCPnj9ZmD3bMLo4Gb2kthHpS3xhwk/sFoA5RLxXmLKvsQ1SAVbG1VWPISFIwpF/oj6bsEzWHg1pyZYiJ/lQl6oa/+fAz1+kAr52OL/sJCOBgHm5gEQybFjEgw86nrLBDqZ3herOPDkRKh+pnDAAXV8wKyvqQMMfn2aA9b1fzhA5wFQWhF48N9WkLuiWAfY/YA0pCWBamAfaIyjQTWQ0Y2YA2B6B5k8nCHRDgB5REqi3T6gT6eINNdANADtUpQsgR3fCIDcHnCjPkiQ2gQf1NfgwJSeTPVscmA+SSbVVgD/tdYHVJOAMJQ4TG2ma78bD6LwjtU7nU6n8/v5AuY6HZyRatEhAAAAAElFTkSuQmCC",
+      "email": "sammyak@gmail.com",
+      "password": "12345",
+      "id": 1
+    },
+    {
+      "name": "sam",
+      "avatar": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAMAAAD04JH5AAAAMFBMVEXk5ueutLepr7Ln6erg4uPJzc/T1ti7wMO2u77DyMqzuLvq7O3P0tTW2dvc3+DZ3N7ueM45AAAC2UlEQVR4nO2a2ZLjIAxFAYHZvPz/3za2O8v0JCA5kl3dxXly5eXeCAmDZKU6nU6n0+l0Op1O5/cCAErZglofzle3UwxJryTvFnWuB4DJa2P0DWNSnM+zAHnUD/G7Cb/kc/Tz9EJ+t3DKQkB8Lb8xiDsAFSr62jhhB2BTRX51EEUdgK3Lb4kg6qDx/6VjAL6tXxyMUg7A1fLvyYHQngQLTr/szUIGAlJfqBhhxAagIKCvAC+vtUQIBkIAtOE3kNEZsBkQKEVKALQO3AZIKbiGwHIbQG2CTwbYX8w0fa253wgzbQVKEvDqA6kIN5gNIN9DT8y8BiJVXy8XGzATrwFiFa51+McMXL4Elyfh1WVIOw1s8OorS96K/9rL6PLXMfVAorkPJApoBvivqLQ1MBP/oRR9MdsQuBcA4mp+D4DI3WwihEDkdorPAv4j8U67P/ONVJcGvRdYqRZJ9hgHEiV4A9OjkGsRbVTblJu+dKuy4UBcvxRjtVUr3ywup7P38uGUoQHM74Lgzprd5OVFJpgoVv6vLMzu35FNGE+eGq1TqzH6kFIKPg7XDM4y3Mhnz8zK/7XLMLq44cZhmfdfTxDPah5jKKu+ck+B9TlFNynRYKzDSheek+9nIWiT4mBlIlGCPnj9ZmD3bMLo4Gb2kthHpS3xhwk/sFoA5RLxXmLKvsQ1SAVbG1VWPISFIwpF/oj6bsEzWHg1pyZYiJ/lQl6oa/+fAz1+kAr52OL/sJCOBgHm5gEQybFjEgw86nrLBDqZ3herOPDkRKh+pnDAAXV8wKyvqQMMfn2aA9b1fzhA5wFQWhF48N9WkLuiWAfY/YA0pCWBamAfaIyjQTWQ0Y2YA2B6B5k8nCHRDgB5REqi3T",
+      "email": "sam@gmail.com",
+      "password": "12345",
+      "id": 2
+    },
+    {
+      "name": "ram",
+      "avatar": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAMAAAD04JH5AAAAMFBMVEXk5ueutLepr7Ln6erg4uPJzc/T1ti7wMO2u77DyMqzuLvq7O3P0tTW2dvc3+DZ3N7ueM45AAAC2UlEQVR4nO2a2ZLjIAxFAYHZvPz/3za2O8v0JCA5kl3dxXly5eXeCAmDZKU6nU6n0+l0Op1O5/cCAErZglofzle3UwxJryTvFnWuB4DJa2P0DWNSnM+zAHnUD/G7Cb/kc/Tz9EJ+t3DKQkB8Lb8xiDsAFSr62jhhB2BTRX51EEUdgK3Lb4kg6qDx/6VjAL6tXxyMUg7A1fLvyYHQngQLTr/szUIGAlJfqBhhxAagIKCvAC+vtUQIBkIAtOE3kNEZsBkQKEVKALQO3AZIKbiGwHIbQG2CTwbYX8w0fa253wgzbQVKEvDqA6kIN5gNIN9DT8y8BiJVXy8XGzATrwFiFa51+McMXL4Elyfh1WVIOw1s8OorS96K/9rL6PLXMfVAorkPJApoBvivqLQ1MBP/oRR9MdsQuBcA4mp+D4DI3WwihEDkdorPAv4j8U67P/ONVJcGvRdYqRZJ9hgHEiV4A9OjkGsRbVTblJu+dKuy4UBcvxRjtVUr3ywup7P38uGUoQHM74Lgzprd5OVFJpgoVv6vLMzu35FNGE+eGq1TqzH6kFIKPg7XDM4y3Mhnz8zK/7XLMLq44cZhmfdfTxDPah5jKKu+ck+B9TlFNynRYKzDSheek+9nIWiT4mBlIlGCPnj9ZmD3bMLo4Gb2kthHpS3xhwk/sFoA5RLxXmLKvsQ1SAVbG1VWPISFIwpF/oj6bsEzWHg1pyZYiJ/lQl6oa/+fAz1+kAr52OL/sJCOBgHm5gEQybFjEgw86nrLBDqZ3herOPDkRKh+pnDAAXV8wKyvqQMMfn2aA9b1fzhA5wFQWhF48N9WkLuiWAfY/YA0pCWBamAfaIyjQTWQ0Y2YA2B6B5k8nCHRDgB5REqi3T",
+      "email": "ram@gmail.com",
+      "password": "1234444",
+      "id": 3
+    }
+  ],
+  "blogs":[{
+    "id" : 1,
+    "username": "coreyschafer",
+    "title": "Be Present",
+    "content": "Turning away from the ledge, he started slowly down the mountain, deciding that he would, that very night, satisfy his curiosity about the man-house. In the meantime, he would go down into the canyon and get a cool drink, after which he would visit some berry patches just over the ridge, and explore among the foothills a bit before his nap-time, which always came just after the sun had walked past the middle of the sky. At that period of the day the sun’s warm rays seemed to cast a sleepy spell over the silent mountainside, so all of the animals, with one accord, had decided it should be the hour for their mid-day sleep.",
+		"category" : "Entertainment",
+		"date" : "2017-06-01",
+		"likes" : 24,
+		"comments" : [{"username" : "Jane", "content" : "Good One"}, {"username" : "Bob", "content" : "Loved It!"}]
+  }]
 }
